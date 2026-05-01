@@ -1,5 +1,5 @@
 # Laporan Praktikum 5: Navigasi dan Rute
-Aplikasi ini merupakan hasil praktikum mata kuliah Pemrograman Mobile yang berfokus pada implementasi navigasi deklaratif menggunakan go_router, penggunaan widget GridView, serta penerapan animasi transisi dengan Hero widget.
+Aplikasi ini merupakan hasil praktikum mata kuliah Pemrograman Aplikasi Bergerak yang berfokus pada implementasi navigasi deklaratif menggunakan go_router, penggunaan widget GridView, serta penerapan animasi transisi dengan Hero widget.
 
 ### Identitas Mahasiswa
 Nama: Izmi Rahma Mawardah
@@ -33,6 +33,8 @@ Halaman ItemPage menampilkan seluruh informasi atribut dari model Item, meliputi
   * Deskripsi Produk
   * Tombol Kembali (Leading AppBar) untuk navigasi balik ke Home
 
-### Hasil (Screenshots)
-Halaman Home 	
-Halaman item
+### Dokumentasi Tampilan
+
+![Halaman Utama](home.jpg)
+![Halaman Detail 1](detail.jpg)
+![Halaman Detail 2](detail2.jpg)
