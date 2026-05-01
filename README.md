@@ -1,4 +1,4 @@
-# Laporan Praktikum 5: Navigasi dan Rute
+# Laporan Praktikum 5: Navigasi dan Layout
 Aplikasi ini merupakan hasil praktikum mata kuliah Pemrograman Aplikasi Bergerak yang berfokus pada implementasi navigasi deklaratif menggunakan go_router, penggunaan widget GridView, serta penerapan animasi transisi dengan Hero widget.
 
 ### Identitas Mahasiswa
@@ -19,10 +19,10 @@ Halaman utama (HomePage) menampilkan daftar produk menggunakan GridView.builder 
 
   * Nama Produk
   * Harga Produk
-  * Rating Produk (Ikon Bintang)
+  * Rating Produk
 
 3. Animasi Hero
-Implementasi Hero widget pada gambar produk memberikan transisi visual yang halus saat pengguna berpindah dari halaman daftar (Home) ke halaman detail (Item).
+Implementasi Hero widget pada gambar produk memberikan transisi visual yang halus saat pengguna berpindah dari halaman Home ke halaman Item.
 
 4. Detail Produk Lengkap
 Halaman ItemPage menampilkan seluruh informasi atribut dari model Item, meliputi:
