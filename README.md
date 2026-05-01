@@ -36,5 +36,7 @@ Halaman ItemPage menampilkan seluruh informasi atribut dari model Item, meliputi
 ### Dokumentasi Tampilan
 
 ![Halaman Home](home.jpg)
+
 ![Halaman Item 1](detail.jpg)
+
 ![Halaman Item 2](detail2.jpg)
